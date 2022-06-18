@@ -20,11 +20,11 @@ usr/bin/locals:~$ cat life.go
   for life  { go func() { code.run() }() }
 
 usr/bin/locals:~$ git status
-fatal: not a git repository (or any of the parent directories): .git
+  fatal: not a git repository (or any of the parent directories): .git
 
 usr/bin/locals:~$ chmod +x muhammad.sh && ./muhammad.sh
- 1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
-
- [OK] No errors
+  1/1 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100%
+  
+  [OK] No errors
 
  ```
